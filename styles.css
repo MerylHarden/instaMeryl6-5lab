@@ -8,16 +8,17 @@ body {
 }
 
 .page {
-  max-width: 700px;
+  max-width: 500px;
   margin: 0 auto;
   padding: 40px 16px 80px;
-  text-align: left;
 }
 
 .title {
   margin: 0 0 24px;
   font-size: 40px;
   font-weight: 600;
+  text-align: left;   /* Align text left */
+  margin-bottom: 20px;
 }
 
 .photo1,
