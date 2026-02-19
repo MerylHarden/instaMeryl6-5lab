@@ -3,7 +3,7 @@
 body {
   margin: 0;
   background: #2f2f2f;
-  font-family: system-ui, -apple-system, Arial, sans-serif;
+  font-family: Arial, sans-serif;
   color: #fff;
 }
 
@@ -17,7 +17,7 @@ body {
   margin: 0 0 24px;
   font-size: 40px;
   font-weight: 600;
-  text-align: left;   /* Align text left */
+  text-align: left; 
   margin-bottom: 20px;
 }
 
